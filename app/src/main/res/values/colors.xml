@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#02ad58</color>
+    <color name="biru">#16697A</color>
+    <color name="biruu">#489FB5</color>
+    <color name="biruuu">#82C0CC</color>
+    <color name="Koneng">#FFA62B</color>
+</resources>
